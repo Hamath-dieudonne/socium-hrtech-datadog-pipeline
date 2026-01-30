@@ -1,0 +1,11 @@
+pymongo==4.6.1
+faker==22.0.0
+datadog-api-client==2.20.0
+python-dotenv==1.0.0
+pandas==2.1.4
+numpy==1.26.3
+requests==2.31.0
+pydantic==2.6.1
+tenacity==8.2.3
+python-dateutil==2.9.0.post0
+email-validator==2.1.1
